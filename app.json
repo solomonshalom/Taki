@@ -1,7 +1,7 @@
 {
   "name": "Taki",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
+  "repository": "https://github.com/solomonshalom/Taki",
   "logo": "https://i.imgur.com/JFxgbWH.png",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
