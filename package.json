@@ -5,9 +5,9 @@
   "main": "index.js",
   "author": "Solomon Shalom Lijo <solomonshalom.lijo@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/solomonshalom/Taki/",
+  "repository": "github:solomonshalom/Taki",
+  "bugs": "https://github.com/solomonshalom/Taki/issues",
   "engines": {
     "node": ">=14.0.0"
   },
