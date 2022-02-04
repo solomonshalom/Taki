@@ -10,8 +10,8 @@
 ## Getting Started
 
 ```sh
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/solomonshalom/Taki.git
+cd Taki
 npm install
 ```
 
